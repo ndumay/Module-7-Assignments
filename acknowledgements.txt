@@ -1,0 +1,11 @@
+AI Use Statement (Week 3)
+
+I used ChatGPT (OpenAI) as a technical support tool during this assignment to:
+	•	Clarify problem instructions and confirm interpretation of early stopping criteria (validation accuracy at minimum validation loss).
+	•	Debug runtime errors (e.g., incorrect function arguments, return types, history extraction issues).
+	•	Refactor hyperparameter sweep loops for activation functions, learning rates, dropout configurations, and L2 regularization.
+	•	Improve computational efficiency when grid searches were running excessively long.
+
+All experiments were designed, executed, and validated by me. I selected the final model configurations, verified all reported metrics, and ensured the code adhered to the provided notebook template and grading constraints. I am fully responsible for the implementation and results submitted.
+
+No external solution code or unauthorized materials were used.
